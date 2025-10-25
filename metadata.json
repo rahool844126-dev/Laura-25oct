@@ -1,0 +1,7 @@
+{
+  "name": "Laura AI Chatbot",
+  "description": "An AI Chatbot named Laura, designed with a premium mobile-first UI/UX, that responds exclusively in Hindi.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
